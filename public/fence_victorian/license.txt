@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Victorian Fence
+* source:	https://sketchfab.com/3d-models/stylized-victorian-fence-d149368ceb094d12a865925c79d9d31b
+* author:	BiscuitEater (https://sketchfab.com/div.andromeda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Victorian Fence" (https://sketchfab.com/3d-models/stylized-victorian-fence-d149368ceb094d12a865925c79d9d31b) by BiscuitEater (https://sketchfab.com/div.andromeda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
