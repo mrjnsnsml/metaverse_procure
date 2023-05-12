@@ -1,0 +1,7 @@
+Wholistic: 
+>> Prepare the scene and then monetize the scene (nice to have)
+>> Metaverse Scene creation using reusable web components on a popular UI framework.
+>> Scene Description: Under a clear sky, Victorian house with few out houses, surrounded by greenery and vehicle.
+		      User navigation using WSAD keys.
+>> Tools explored:- Gltfjsx.
+>> 
